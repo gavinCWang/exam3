@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6c52622-9b61-4c69-9c2c-0f48d51c0c00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W45p6AMMO6Mq4SUAavAIVVXSLQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000/books" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000/books" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;name&quot;: &quot;helen&quot;,&#10;&quot;price&quot;: 216&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.www">
+    <configuration name="books#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http_test/books.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="albums.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/crawler/albums.js" working-dir="$PROJECT_DIR$/crawler">
+      <method v="2" />
+    </configuration>
+    <configuration name="crawlerTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/crawlerTest.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <configuration name="daoTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/daoTest.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <configuration name="www" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/bin/www" working-dir="$PROJECT_DIR$/bin">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+        <item itemvalue="Node.js.crawlerTest.js" />
+        <item itemvalue="Node.js.albums.js" />
+        <item itemvalue="Node.js.daoTest.js" />
+        <item itemvalue="HTTP Request.books#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c52622-9b61-4c69-9c2c-0f48d51c0c00" name="Default Changelist" comment="" />
+      <created>1578396205045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578396205045</updated>
+      <workItem from="1578396206223" duration="8290000" />
+      <workItem from="1578444116124" duration="4638000" />
+      <workItem from="1578466497685" duration="17000" />
+      <workItem from="1578482046215" duration="6009000" />
+      <workItem from="1578531170327" duration="8700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578533307150">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1578533307150" />
+    <state x="519" y="105" key="#crawlerTest.js" timestamp="1578538078387">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="519" y="105" key="#crawlerTest.js/0.0.1600.860@0.0.1600.860" timestamp="1578538078387" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1578487036832">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1578487036832" />
+    <state width="1579" height="144" key="GridCell.Tab.0.bottom" timestamp="1578539371394">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="144" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1578539371394" />
+    <state width="1579" height="144" key="GridCell.Tab.0.center" timestamp="1578539371393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="144" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1578539371393" />
+    <state width="1579" height="144" key="GridCell.Tab.0.left" timestamp="1578539371393">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="144" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1578539371393" />
+    <state width="1579" height="144" key="GridCell.Tab.0.right" timestamp="1578539371394">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="144" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1578539371394" />
+  </component>
+</project>
